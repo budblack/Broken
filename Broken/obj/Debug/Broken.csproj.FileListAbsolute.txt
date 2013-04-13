@@ -1,0 +1,8 @@
+d:\快盘\我的文档\visual studio 2012\Projects\Broken\Broken\bin\Debug\Broken.exe
+d:\快盘\我的文档\visual studio 2012\Projects\Broken\Broken\bin\Debug\Broken.pdb
+d:\快盘\我的文档\visual studio 2012\Projects\Broken\Broken\obj\Debug\Broken.Form1.resources
+d:\快盘\我的文档\visual studio 2012\Projects\Broken\Broken\obj\Debug\Broken.Properties.Resources.resources
+d:\快盘\我的文档\visual studio 2012\Projects\Broken\Broken\obj\Debug\Broken.csproj.GenerateResource.Cache
+d:\快盘\我的文档\visual studio 2012\Projects\Broken\Broken\obj\Debug\Broken.exe
+d:\快盘\我的文档\visual studio 2012\Projects\Broken\Broken\obj\Debug\Broken.pdb
+d:\快盘\我的文档\visual studio 2012\Projects\Broken\Broken\obj\Debug\Broken.csprojResolveAssemblyReference.cache
